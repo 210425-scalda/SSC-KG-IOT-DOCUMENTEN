@@ -1,0 +1,25 @@
+Wat houdt het project precies in?
+- slimme trap ontwerpen in het SSC door LED strips te gebruiken langs de randen die je voetstappen volgen door middel van sensoren
+
+Wie behoort tot mijn project?
+- Quinten Faas
+
+Wie is de klant?
+- Danny of Marcel
+
+Wie is de coach van het project?
+- Danny of Marcel
+
+27 januari stage (3 sprint over tot aan de stage)
+Sprint 2 gebruiken om te oefenen
+Sprint 3 en 4 gebruiken om te examineren
+
+2 Documenten per week inleveren
+Leerofferte -> Functioneel Ontwerp (FO) -> Technisch Ontwerp (TO) -> ?
+
+Project -> Veilige trap ontwerpen door LED lichten te plaatsen aan de zijkanten van de tredes of reling 
+
+LED strip laten werken met arduino door middel van wifi chip of raspberry PI -> Gevoelssensoren
+
+Bestuurbaar via smartphone ?
+

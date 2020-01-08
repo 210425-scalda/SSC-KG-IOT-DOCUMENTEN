@@ -1,0 +1,1 @@
+Een technisch ontwerp is de vertaalde versie van het functioneel ontwerp voor de beheerder. Zodat die hier makkelijk uit kan lezen wat nou precies de bedoeling is en wat hij moet opleveren.
